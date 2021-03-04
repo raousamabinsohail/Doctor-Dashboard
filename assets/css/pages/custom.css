@@ -1,0 +1,17 @@
+/* Doctor Dashboard Home Page CSS */
+
+/* Profile Card */
+
+/* Ratting */
+.checked {
+    color: orange;
+  }
+.pad-buttom{
+    padding-bottom: 10px;
+}  
+
+/* Home Page */
+
+.no-margin{
+    margin-left: 0;
+}
